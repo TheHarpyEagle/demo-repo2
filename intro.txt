@@ -2,3 +2,5 @@
 //Modified file --> has seen the file before but the changes are not staged
 //git status : shows what modification to existing or new file creation we done
 //git remote add origin --> connects the local repo to the onlie repo
+//git checkout --> used to switch to another branch (or create new branch requires -b)
+//git branch --> * in front of the current used branch
