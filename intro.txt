@@ -4,3 +4,4 @@
 //git remote add origin --> connects the local repo to the onlie repo
 //git checkout --> used to switch to another branch (or create new branch requires -b)
 //git branch --> * in front of the current used branch
+//git delete branch --> git branch -d branchname
