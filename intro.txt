@@ -1,3 +1,4 @@
 //Untracked file -->newly created file which git not aware of
 //Modified file --> has seen the file before but the changes are not staged
 //git status : shows what modification to existing or new file creation we done
+//git remote add origin --> connects the local repo to the onlie repo
